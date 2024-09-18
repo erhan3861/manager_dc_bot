@@ -15,10 +15,10 @@ pip install -r requirements.txt
 
 ## Bot Komutları
 
-!add_task <description> — açıklaması <description> olan bir görev ekler
-!delete_task <task_id> — <task_id> tanımlayıcısına sahip görevi siler 
-!show_tasks — tüm görevlerin bir listesini gösterir
-!complete_task <task_id> — <task_id> tanımlayıcısına sahip görevi tamamlandı olarak işaretler.
+!add_task <description> — açıklaması <description> olan bir görev ekler\n
+!delete_task <task_id> — <task_id> tanımlayıcısına sahip görevi siler \n
+!show_tasks — tüm görevlerin bir listesini gösterir\n
+!complete_task <task_id> — <task_id> tanımlayıcısına sahip görevi tamamlandı olarak işaretler.\n
 
 ## Testler
 Projedeki veri bağlantısı işlevinin test etmek için tests klasörlerindeki her bir dosyayı çalıştırabilirsiniz.
